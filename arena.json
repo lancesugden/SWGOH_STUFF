@@ -63,8 +63,7 @@
 "name": "Meow",
 "allyCode": "781645615",
 "discordId": "304674535485997057",
-"userIcon": ":green_circle:",
-"tagIdOnClimb": "&802244054150676490"
+"userIcon": ":green_circle:"
 } ,
 {
 "name": "Flash",
@@ -298,7 +297,8 @@
 "name": "Dalamar",
 "allyCode": "427524163",
 "discordId": "",
-"userIcon": ":red_circle:"
+"userIcon": ":red_circle:",
+"tagIdOnClimb": "&802244054150676490"
 } ,
 {
 "name": "JotaPe",
