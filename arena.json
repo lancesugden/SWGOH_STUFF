@@ -123,7 +123,7 @@
 "name": "Fatos",
 "allyCode": "957973879",
 "discordId": "",
-"userIcon": ":red_circle:"
+"userIcon": ":green_circle:"
 } ,
 {
 "name": "Kaos",
@@ -303,6 +303,18 @@
 {
 "name": "JotaPe",
 "allyCode": "585975442",
+"discordId": "",
+"userIcon": ":red_circle:"
+} ,
+{
+"name": "SHERLOCK",
+"allyCode": "853656729",
+"discordId": "",
+"userIcon": ":red_circle:"
+} ,
+{
+"name": "FANFA",
+"allyCode": "522913831",
 "discordId": "",
 "userIcon": ":red_circle:"
 } ,
